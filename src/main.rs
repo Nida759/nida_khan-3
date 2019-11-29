@@ -1,7 +1,7 @@
 #[derive(Debug)]
 struct Point<T>{
     x: T,
-    y: T 
+    y: T
 }
 
 impl Point<f32>{
